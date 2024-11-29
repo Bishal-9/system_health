@@ -1,0 +1,19 @@
+{
+  "name": "system_monitor",
+  "version": "1.0.0",
+  "description": "Monitor System's Health",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [
+    "system",
+    "monitor",
+    "system-health"
+  ],
+  "author": "Bishal Goon <work.bishalgoon@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "diskusage": "^1.2.0"
+  }
+}
